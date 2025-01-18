@@ -9,16 +9,10 @@ The Password Manager is a simple console application developed in C++. It allows
 - Simple and intuitive console interface for easy interaction.
 
 ## Technologies Used
-- **C++**: For implementing the logic and structure of the application.
+- **C++**: This is used to implement the logic and structure of the application.
 - **Standard Library**: Utilizes STL containers like `map` for storing website-password pairs.
 
 ## How It Works
-1. The user is presented with a menu to choose from three options: adding a password, displaying stored passwords, or exiting the application.
+1. The user has a menu to choose from three options: adding a password, displaying stored passwords, or exiting the application.
 2. When adding a password, the user inputs the website name and the corresponding password.
 3. The stored passwords can be displayed in a neatly formatted table.
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/password-manager.git
-   cd password-manager
